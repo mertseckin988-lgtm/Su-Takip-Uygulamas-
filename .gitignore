@@ -1,0 +1,12 @@
+# Python önbellek dosyaları
+__pycache__/
+*.pyc
+
+# PyInstaller derleme dosyaları (BUNLARI ASLA GITHUB'A ATMAYIZ)
+build/
+dist/
+*.spec
+*.exe
+
+# Veritabanı (Kullanıcının özel verisi GitHub'da paylaşılmaz)
+data/
