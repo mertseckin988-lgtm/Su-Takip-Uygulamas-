@@ -1,4 +1,4 @@
-# BGT 132 Final Projesi: Günlük Su Tüketim Takipçisi (Water Tracker)
+MERT SEÇKİN: Günlük Su Tüketim Takipçisi (Water Tracker)
 
 ## Proje Adı
 Günlük Su Tüketim Takipçisi Uygulaması (OOP & Modüler Mimari)
